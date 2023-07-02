@@ -26,7 +26,7 @@ to the cluster with the nearest mean, serving as a prototype of the cluster.
 
 ```go
 import (
-	"github.com/muesli/kmeans"
+	"github.com/DerikZhang/kmeans"
 	"github.com/DerikZhang/clusters"
 )
 
