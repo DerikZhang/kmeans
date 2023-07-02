@@ -7,7 +7,7 @@ import (
 	"github.com/DerikZhang/kmeans/plotter"
 	"io/ioutil"
 
-	"github.com/muesli/clusters"
+	"github.com/DerikZhang/clusters"
 
 	colorful "github.com/lucasb-eyer/go-colorful"
 )

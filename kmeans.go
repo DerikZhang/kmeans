@@ -4,7 +4,7 @@ package kmeans
 
 import (
 	"fmt"
-	"github.com/muesli/clusters"
+	"github.com/DerikZhang/clusters"
 	"math/rand"
 )
 
